@@ -3,3 +3,13 @@ Lista1/target/classes/fatecfranca/ex3/TestaProduto.class
 Lista1/target/classes/fatecfranca/ex3/TestaProduto.class
 Lista1/target/classes/fatecfranca/ex1/TestaAluno.class
 *.class
+Lista3/pom.xml
+Lista2/pom.xml
+Lista1/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+Lista1/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+Lista2/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+Lista2/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+Lista3/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+Lista3/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+mavenproject1/pom.xml
+mavenproject1/src/main/java/fatecfranca/mavenproject1/Mavenproject1.java
